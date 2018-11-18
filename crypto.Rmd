@@ -1,0 +1,41 @@
+---
+title: "Crypto-sim"
+author: "Aurel Prosz"
+date: '2018 november 18 '
+output: 
+  pdf_document:
+    toc: true  
+bibliography: bibliography.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\newpage
+
+# Motivation
+
+# Introduction
+
+# Project goals
+
+## My own contribution to the topic
+
+# Materials and methods
+
+## mcmc library
+
+## Possible source of errors
+
+# Classical random walk model
+
+## Discussion
+
+# Pricing option in the cryptocurrency market
+
+## Option pricing
+
+# Summary
+
+# References
